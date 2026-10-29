@@ -24,12 +24,12 @@
     "ink-text-input": "^6.0.0",
     "picocolors": "^1.1.1",
     "react": "^19.2.4",
-    "zod": "^4.1.11"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@types/node": "^24.5.2",
     "@types/react": "^19.2.2",
-    "tsx": "^4.20.5",
+    "tsx": "^4.23.15",
     "typescript": "^5.9.2"
   }
 }
